@@ -16,7 +16,7 @@ const Card = ({ title, description, imageSrc }) => {
           transform: "scale(1.05)",
         }}
       >
-        <Image src={imageSrc} alt={title} borderRadius="md" />
+        <Image src={imageSrc} alt={title} borderRadius="md" mb={3} />
         <VStack align="start" textAlign="left"ss>
           <Heading as="h3" fontSize="xl" color="black">
             {title}

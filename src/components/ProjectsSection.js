@@ -1,37 +1,37 @@
 import React from "react";
 import FullScreenSection from "./FullScreenSection";
 import { Box, Heading } from "@chakra-ui/react";
-import Tedros from "../images/TEDROS-ADHANOM-1.png"
 import Card from "./Card";
+
 
 const projects = [
   {
-    title: "React Space",
+    title: "React-powered Restaurant Website 🍽️✨",
     description:
-      "Handy tool belt to create amazing AR components in a React app, with redux integration via middleware️",
-    getImageSrc: () => require("../images/TEDROS-ADHANOM-1.png"),
-    link: "https://example.com/react-space" // Replace with the actual link
+      "Expertly crafted with React, this visually stunning and user-friendly restaurant website showcases seamless navigation, captivating design elements, and full responsiveness across all devices.",
+    getImageSrc: () => require("../images/port22new.png"),
+    link: "https://sophoniasportfolio1.netlify.app/" // Replace with the actual link
   },
   {
-    title: "React Infinite Scroll",
+    title: "High Fidelity UX/UI Prototype | Figma",
     description:
-      "A scrollable bottom sheet with virtualisation support, native animations at 60 FPS and fully implemented in JS land 🔥️",
-    getImageSrc: () => require("../images/photo2.jpg"),
-    link: "https://typicalethiopian.com/haile-gebreselassie-biography-profile-achievement-net-worth/" // Replace with the actual link
+      "This high-fidelity prototype offers a seamless user experience through its visually stunning interface. The inclusion of interactive elements allows for effortless navigation and an engaging experience.",
+    getImageSrc: () => require("../images/pho9.jpg"),
+    link: "https://www.figma.com/proto/CpMhhVlvI70CKMtN42mmEr/My-Figma-Portfolio?type=design&t=5Bm7otbzRungRKcf-1&scaling=scale-down&page-id=0%3A1&node-id=402-311&starting-point-node-id=402%3A311&mode=design" // Replace with the actual link
   },
   {
-    title: "Photo Gallery",
+    title: "Liya Kebede Biography | Childhood, Achievement & FAQ",
     description:
-      "A One-stop shop for photographers to share and monetize their photos, allowing them to have a second source of income",
-    getImageSrc: () => require("../images/photo3.jpg"),
-    link: "https://example.com/photo-gallery" // Replace with the actual link
+      "Liya Kebede is a renowned Ethiopian-born fashion model who has achieved stardom in her modeling career. The fashion star Liya has appeared in many popular magazines, such as Vogue...",
+    getImageSrc: () => require("../images/Liyakebede biography.webp"),
+    link: "https://typicalethiopian.com/liya-kebede-biography-childhood-achievement-faq" // Replace with the actual link
   },
   {
-    title: "Event planner",
+    title: "Time and Date in Addis Ababa, Ethiopia",
     description:
-      "A mobile application for leisure seekers to discover unique events and activities in their city with a few taps",
-    getImageSrc: () => require("../images/photo4.jpg"),
-    link: "https://example.com/event-planner" // Replace with the actual link
+      "In a time when scientists are working on how to travel back in time, a fiction seeming fact is under our nose. What if we tell you there is such a country with a calendar seven to eight years behind the rest of the world....",
+    getImageSrc: () => require("../images/current-time-and-date-in-Ethiopia-980x551.jpg"),
+    link: "https://typicalethiopian.com/time-and-date-in-addis-ababa-ethiopia" // Replace with the actual link
   },
 ];
 
@@ -52,7 +52,7 @@ const ProjectsSection = () => {
 </Heading>
 
       <Box mb={8}>
-        <Heading as="h2" fontSize="lg" mb={4} textAlign="center">
+        <Heading as="h2" fontSize="2xl" mb={4} textAlign="center">
           Web Development
         </Heading>
         <Box
@@ -74,7 +74,7 @@ const ProjectsSection = () => {
       </Box>
 
       <Box>
-        <Heading as="h2" fontSize="lg" mb={4} textAlign="center">
+        <Heading as="h2" fontSize="2xl" mb={4} textAlign="center">
           Content Writing
         </Heading>
         <Box
