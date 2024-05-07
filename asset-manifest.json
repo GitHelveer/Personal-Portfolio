@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Personal-Portfolio/static/css/main.df6a7eab.css",
+    "main.js": "/Personal-Portfolio/static/js/main.d343237b.js",
+    "static/js/111.944ce873.chunk.js": "/Personal-Portfolio/static/js/111.944ce873.chunk.js",
+    "static/media/Sofi profile photo.jpg": "/Personal-Portfolio/static/media/Sofi profile photo.ae99adbe9d3a21586d8d.jpg",
+    "static/media/port22new.png": "/Personal-Portfolio/static/media/port22new.4533564e63413838adaf.png",
+    "static/media/current-time-and-date-in-Ethiopia-980x551.jpg": "/Personal-Portfolio/static/media/current-time-and-date-in-Ethiopia-980x551.ed028499d3623dc83b78.jpg",
+    "static/media/pho9.jpg": "/Personal-Portfolio/static/media/pho9.29b0345c2efa07b4b249.jpg",
+    "static/media/Liyakebede biography.webp": "/Personal-Portfolio/static/media/Liyakebede biography.b80b236dc52c77cd26c1.webp",
+    "index.html": "/Personal-Portfolio/index.html",
+    "main.df6a7eab.css.map": "/Personal-Portfolio/static/css/main.df6a7eab.css.map",
+    "main.d343237b.js.map": "/Personal-Portfolio/static/js/main.d343237b.js.map",
+    "111.944ce873.chunk.js.map": "/Personal-Portfolio/static/js/111.944ce873.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df6a7eab.css",
+    "static/js/main.d343237b.js"
+  ]
+}
